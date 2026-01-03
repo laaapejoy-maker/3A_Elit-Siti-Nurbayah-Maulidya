@@ -1,0 +1,45 @@
+body {
+  background-color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  color: #444;
+}
+
+/* Navbar */
+.navbar {
+  background: #fad4e8 !important;
+  border-bottom: 3px solid #f7bfd8;
+}
+.navbar-brand {
+  color: #d46a8c !important;
+  font-weight: bold;
+}
+
+/* Button */
+.btn-pink {
+  background: #f7bfd8;
+  color: #444;
+  font-weight: 600;
+  border-radius: 8px;
+}
+.btn-pink:hover {
+  background: #fad4e8;
+}
+
+/* Card */
+.card {
+  border-radius: 10px;
+  border: 1px solid #f5c6d7;
+}
+.card-title {
+  color: #d46a8c;
+  font-weight: bold;
+}
+
+/* Footer */
+.footer {
+  background: #fad4e8;
+  padding: 15px;
+  text-align: center;
+  margin-top: 40px;
+  color: #444;
+}
